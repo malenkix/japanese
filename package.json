@@ -1,0 +1,12 @@
+{
+  "name": "japanese",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "git@github.com:malenkix/japanese.git",
+  "author": "Maik Thietke <seleenera@gmx.de>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  }
+}
